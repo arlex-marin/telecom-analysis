@@ -90,8 +90,6 @@ Usuarios totales: 4,000. Edad promedio: 48.1 años. Mensajes promedio por usuari
 4. Paquete adicional para usuarios de alto consumo (outliers).
 5. Rediseñar límites de planes actuales (no generan diferenciación real).
 
-## Autor
+## Colofón
 
 Este proyecto fue desarrollado como parte del sprint de análisis de datos para ConnectaTel, aplicando técnicas de limpieza, exploración, visualización y segmentación en Python.
-
-¿Preguntas o sugerencias? Contacta al equipo de datos.
